@@ -3,21 +3,21 @@ How to run this Project
 
 1. Download and Unzip file on your local system copy smas folder.
 
-2. Put srms folder inside root directory
+2. Put srms folder insideÂ root directory
 
 Database Configuration
 
 Open phpmyadmin
-Create Database smas
+Create DatabaseÂ smas
 Import database srms.sql (available inside zip package)
 
 For User
 
-Open Your browser put inside browser “http://localhost/smas”
-Details of student  --
+Open Your browser put inside browser â€œhttp://localhost/smasâ€
+Details of student Â --
 
 
-Student name-- Anuj Kumar 
+Student name-- Anuj KumarÂ 
 
 
 Roll id--10861
@@ -25,7 +25,5 @@ Student Class: Fourth(C)
 
 For Admin Panel
 
-Open Your browser put inside browser “http://localhost/smas”
-Login Details for admin : admin/Test@123
-
-
+Open Your browser put inside browser â€œhttp://localhost/smasâ€
+Login Details for admin :Â admin/Test@123
